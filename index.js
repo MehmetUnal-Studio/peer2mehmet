@@ -1,4 +1,4 @@
-    navigator.webkitGetUserMedia({ video:false, audio: true }, function (stream) {
+    navigator.webkitGetUserMedia({ video:true, audio: true }, function (stream) {
     var Peer = require('simple-peer')
     var peer = new Peer({
       initiator: location.hash === '#init',
