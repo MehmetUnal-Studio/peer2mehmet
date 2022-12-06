@@ -9,7 +9,7 @@
   "author": "mehmet",
   "license": "MIT",
   "devDependencies": {
-    "budo": "^4.1.0"
+    "budo": "^11.8.4"
   },
   "dependencies": {
     "dependencies": "0.0.1",
